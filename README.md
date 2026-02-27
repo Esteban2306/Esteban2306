@@ -89,6 +89,18 @@ Production-oriented commerce system featuring:
 
 Designed for scalability and real commercial use.
 
+<p>
+  <a href="https://pillylu.qzz.io/">
+    <img src="https://img.shields.io/badge/Live-Demo-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Esteban2306/Pilly-lu-E-commerce/tree/main/frontend">
+    <img src="https://img.shields.io/badge/Frontend-Repository-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/Esteban2306/Pilly-lu-E-commerce/tree/main/backend">
+    <img src="https://img.shields.io/badge/Backend-Repository-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ### 💄 GlamStudio – Service Booking Platform
@@ -102,6 +114,18 @@ Full-stack booking platform including:
 - Clean separation of concerns
 
 Focused on real-world service industry use cases.
+
+<p>
+  <a href="https://www.glamstudiotg.com/">
+    <img src="https://img.shields.io/badge/Live-Demo-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/glamstudioTG/glamstudio-website/tree/main/frontend">
+    <img src="https://img.shields.io/badge/Frontend-Repository-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/glamstudioTG/glamstudio-website/tree/main/backend">
+    <img src="https://img.shields.io/badge/Backend-Repository-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
