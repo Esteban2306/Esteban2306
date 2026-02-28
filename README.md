@@ -53,7 +53,7 @@ Currently building real-world systems such as e-commerce and service booking pla
 ## 🧠 Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nestjs,react,nextjs,mongodb,postgres,tailwind,docker,git,instagram" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nestjs,react,nextjs,mongodb,postgres,tailwind,docker,git" />
 </p>
 
 ### Backend
